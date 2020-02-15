@@ -11,3 +11,5 @@ Inside container run
 cd app/youtube-search/
 yarn serve
 ```
+
+![App preview](app-preview.png)
