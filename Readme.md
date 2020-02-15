@@ -11,5 +11,6 @@ Inside container run
 cd app/youtube-search/
 yarn serve
 ```
+Open browser at http://localhost:8080/
 
 ![App preview](app-preview.png)
